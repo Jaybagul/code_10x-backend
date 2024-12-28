@@ -13,6 +13,7 @@
   "author": "\"Jayesh Bagul\"",
   "license": "ISC",
   "dependencies": {
+    "mongoose": "^8.9.2",
     "nodemon": "^3.1.9"
   }
 }
